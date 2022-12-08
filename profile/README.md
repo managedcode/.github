@@ -1,5 +1,5 @@
 ## Hi! 👋
-We are a team of developers based in Ukraine and France 🇺🇦🇫🇷 who love working with C# and .NET. We believe that the open source community needs more high-quality C# projects, and that many existing projects could benefit from active maintenance and updates. We believe in the power of open source software and strive to create and maintain high-quality projects for the C# and .NET communities.
+We are a team of developers based in Ukraine and France 🇺🇦🇫🇷 who love working with C# and .NET. We feel that the open source community needs more high-quality C# projects, and that many existing projects could benefit from active maintenance and updates. We believe in the power of open source software and strive to create and maintain high-quality projects for the C# and .NET communities.
 
 Our mission is to bring more good C# projects to the world and to provide ongoing maintenance for new or existing projects that have not been updated in a long time. 
 
