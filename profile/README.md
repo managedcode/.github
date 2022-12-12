@@ -19,7 +19,8 @@ Here are some of the projects that we're currently working on:
 - [Database](https://github.com/managedcode/Database): Unified interface for working with a variety of different document-oriented NoSQL databases.
 - [Orleans.Balancer](https://github.com/managedcode/Orleans.Balancer): liLibrary for automatically balancing the number of active Grains in an Orleans. It allows you to set limits on the number of active Grains, and will automatically deactivate Grains if those limits are reached. It can also perform rebalancing of Grain activations between silos to ensure evenly distributed.
 - [Keda](https://github.com/managedcode/Keda): Use KEDA autoscaling to automatically scale applications based on metrics such as the number of active Grains in Orleans, the number of API requests, and the number of SignalR connections. This allows your .NET applications to handle increased workloads without manual intervention.
-
+- [Orleans.Indexing](https://github.com/managedcode/Orleans.Indexing): Orleans.Indexing is a library that provides functionality for searching Orleans grains by their states. It uses the powerful Lucene.NET library for indexing and searching grain states, making it easy to quickly retrieve data from grains.
+- [Orleans.Identity](https://github.com/managedcode/Orleans.Identity): This is an authentication and authorization library for ASP.NET Identity based on Orleans. It provides a simple and efficient way to manage user sessions and authentication for your ASP.NET applications.
 
 
 We're always working on new projects, so be sure to check our GitHub profile regularly for updates.
