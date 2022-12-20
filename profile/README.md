@@ -7,7 +7,7 @@ That's why we've dedicated ourselves to developing and maintaining open source c
 
 We're also committed to training and hiring young specialists in the field. We believe that investing in the next generation of developers is key to the continued growth and success of the .NET communities.
 
-## Hiring 
+## Hiring 👩‍💻
 We are always looking for talented C# developers to join our team. If you are interested in working with us, please check our website for current job openings and application instructions.
 
 ## Our Projects 👷
