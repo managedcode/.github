@@ -15,6 +15,8 @@ Here are some of the projects that we're currently working on:
 - [TimeSeries](https://github.com/managedcode/TimeSeries) : Library provides convenient tools for working with time series data in C#. Its accumulators and summers make it easy to add and summarize data in time frames, and its efficient storage and compression capabilities ensure.
 - [Communication](https://github.com/managedcode/Communication): provides a convenient and easy-to-use solution for handling the result of a function that may throw exceptions. It eliminates the need to handle exceptions and makes it easy to check whether the function was successful and to access its output.
 - [EnvironmentDetector](https://github.com/managedcode/EnvironmentDetector): is a library that provides a simple way to detect whether your code is running in a test environment or not. It currently supports detecting Dapr, Kubernetes, Docker, MSTest, NUnit, and xUnit.
+- [OpenAI](https://github.com/managedcode/OpenAI): This is an unofficial C# library for the OpenAI API. As there are no official libraries available, we have created our own to help C# developers interact with the API easily.
+
 
 
 ## MS Orleans related Projects 😎
