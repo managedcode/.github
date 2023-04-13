@@ -9,7 +9,6 @@ We're also committed to training and hiring young specialists in the field. We b
 
 ## Our Projects 👷
 Here are some of the projects that we're currently working on:
-
 - [Storage](https://github.com/managedcode/Storage): library provides a universal interface for accessing and manipulating data in different cloud blob storage providers. It makes it easy to switch between providers or to use multiple providers simultaneously, without having to learn and use multiple APIs.
 - [Database](https://github.com/managedcode/Database): Unified interface for working with a variety of different document-oriented NoSQL databases.
 - [TimeSeries](https://github.com/managedcode/TimeSeries) : Library provides convenient tools for working with time series data in C#. Its accumulators and summers make it easy to add and summarize data in time frames, and its efficient storage and compression capabilities ensure.
@@ -28,6 +27,11 @@ Here are some of the projects that we're currently working on specifically relat
 of Grain activations between silos to ensure evenly distributed.
 - [Orleans.PushNotifications](https://github.com/managedcode/Orleans.PushNotifications): Apple and Google Push notifications for Orleans.
 - [Orleans.RateLimiting](https://github.com/managedcode/Orleans.RateLimiting): RateLimiting base on Orleans
+
+## GitHub Actions 🦾
+- [MAUIAppVersion](https://github.com/marketplace/actions/mauiappversion): This action updates the application version and/or display version properties in a .cproj file for a MAUI application. You can use this action as part of your CI/CD workflow to automatically update the version properties when building and publishing your MAUI application.
+
+
 
 We're always working on new projects, so be sure to check our GitHub profile regularly for updates.
 
