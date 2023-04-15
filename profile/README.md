@@ -26,7 +26,7 @@ Here are some of the projects that we're currently working on specifically relat
 - [Keda](https://github.com/managedcode/Keda): Use KEDA autoscaling to automatically scale applications based on metrics such as the number of active Grains in Orleans, the number of API requests, and the number of SignalR connections. This allows your .NET applications to handle increased workloads without manual intervention.
 of Grain activations between silos to ensure evenly distributed.
 - [Orleans.PushNotifications](https://github.com/managedcode/Orleans.PushNotifications): Apple and Google Push notifications for Orleans.
-- [Orleans.RateLimiting](https://github.com/managedcode/Orleans.RateLimiting): RateLimiting base on Orleans
+- [Orleans.RateLimiting](https://github.com/managedcode/Orleans.RateLimiting): This is a library for Microsoft Orleans that provides a set of rate limiting algorithms for controlling the flow of requests in your distributed applications. It is designed to be easy to use and to integrate with your Orleans-based applications seamlessly.
 
 ## GitHub Actions 🦾
 - [MAUIAppVersion](https://github.com/marketplace/actions/mauiappversion): This action updates the application version and/or display version properties in a .cproj file for a MAUI application. You can use this action as part of your CI/CD workflow to automatically update the version properties when building and publishing your MAUI application.
