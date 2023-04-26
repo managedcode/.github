@@ -1,11 +1,29 @@
 ## Hello! 👋
-We are a team of developers based in Ukraine and France 🇺🇦🇫🇷 who love working with C#. We feel that the open source community needs more high-quality C# projects, and that many existing projects could benefit from active maintenance and updates. We believe in the power of open source software and strive to create and maintain high-quality projects for the C# and .NET communities.
+We are dedicated team of C# developers based in Ukraine and France 🇺🇦🇫🇷. 
+We are passionate about contributing to the open source community by creating and maintaining high-quality C# projects for the .NET ecosystem.
 
-Our mission is to bring more good C# projects to the world and to provide ongoing maintenance for new or existing projects that have not been updated in a long time. 
+As avid fans of the Orleans framework, we love using it to build scalable and fault-tolerant applications. We aim to help the community thrive by sharing our knowledge and collaborating on projects that leverage this powerful technology. Feel free to explore our projects and connect with us!
 
-That's why we've dedicated ourselves to developing and maintaining open source code projects. We want to share our expertise and experience with the community.
 
-We're also committed to training and hiring young specialists in the field. We believe that investing in the next generation of developers is key to the continued growth and success of the .NET communities.
+#### Our Mission: 🎯🌐
+We're on a mission to make the world of C# even better! As a team of committed developers, we have made it our goal to create and maintain outstanding C# projects for the global community. Furthermore, we offer support for existing projects in need of updates and maintenance, ensuring these valuable resources remain accessible and up-to-date for developers worldwide.
+
+#### What Sets Us Apart?  🌟💼
+Not only do we excel in coding and maintaining C# projects, but we also invest in the next generation of .NET talent. 
+We actively train and recruit young specialists, contributing to a brighter future for the .NET communities and ensuring their continued growth and success.
+
+#### Why Sponsor Us? 🤝💡
+When you sponsor us, you join hands with a dedicated team that genuinely cares about the .NET ecosystem's development. As a sponsor, you help us:
+
+- Create and maintain top-notch open-source projects
+- Revitalize and update neglected codebases
+- Train the next generation of C# and .NET specialists
+
+Your sponsorship enables us to continue delivering high-quality projects and services, giving developers like you the confidence to rely on our expertise.
+
+#### Join Our Journey: 💪🌍
+Be a part of our growing community and experience firsthand how we bring dedication and passion to the world of open-source C# projects. With us by your side, you can count on a strong, dependable team that consistently supports the projects you care about.
+
 
 ## Our Projects 👷
 Here are some of the projects that we're currently working on:
