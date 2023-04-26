@@ -28,6 +28,7 @@ Here are some of the projects that we're currently working on specifically relat
 of Grain activations between silos to ensure evenly distributed.
 - [**Orleans.PushNotifications**](https://github.com/managedcode/Orleans.PushNotifications): Apple and Google Push notifications for Orleans.
 - [**Orleans.RateLimiting**](https://github.com/managedcode/Orleans.RateLimiting): This is a library for Microsoft Orleans that provides a set of rate limiting algorithms for controlling the flow of requests in your distributed applications. It is designed to be easy to use and to integrate with your Orleans-based applications seamlessly.
+- [**Orleans.SignalR**](https://github.com/managedcode/Orleans.SignalR): is a lightweight, open-source library that enables easy integration of SignalR with Orleans, a distributed virtual actor model framework for building scalable, fault-tolerant systems. The library provides a SignalR backplane, allowing you to effortlessly add real-time communication capabilities to your distributed systems.
 
 ## GitHub Actions 🦾
 - [**MAUIAppVersion**](https://github.com/marketplace/actions/mauiappversion): This action updates the application version and/or display version properties in a .cproj file for a MAUI application. You can use this action as part of your CI/CD workflow to automatically update the version properties when building and publishing your MAUI application.
