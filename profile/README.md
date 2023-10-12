@@ -66,7 +66,7 @@ We are always looking for talented C# developers to join our team. If you are in
 ## Discord 👩‍💻
 [Join to ManagedCode Discord server](https://discord.gg/3wsxCRMmKp), there you can always talk about your ideas.
 
-## Sponsors
+## Sponsors ❤️
 [NDepend](https://www.ndepend.com) - As a static analyzer, NDepend will likely find hundreds or even thousands of issues affecting your code base.
 ![img|315x95](https://raw.githubusercontent.com/managedcode/.github/main/images/NDepend.png)
 
