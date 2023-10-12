@@ -64,7 +64,7 @@ We also encourage you to open issues and share your ideas and suggestions for im
 We are always looking for talented C# developers to join our team. If you are interested in working with us, please check our website for current job openings and application instructions.
 
 ## Discord 👩‍💻
-[Join to ManagedCode Discord server](https://discord.gg/847eJWvv), there you can always talk about your ideas.
+[Join to ManagedCode Discord server](https://discord.gg/3wsxCRMmKp), there you can always talk about your ideas.
 
 
 ## Contact Us 💬
