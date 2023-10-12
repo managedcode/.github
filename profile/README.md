@@ -66,6 +66,9 @@ We are always looking for talented C# developers to join our team. If you are in
 ## Discord 👩‍💻
 [Join to ManagedCode Discord server](https://discord.gg/3wsxCRMmKp), there you can always talk about your ideas.
 
+## Sponsors
+NDepend ![img|315x95](https://raw.githubusercontent.com/managedcode/.github/main/images/NDepend.png)
+
 
 ## Contact Us 💬
 If you have any questions or would like to get in touch with us, please feel free to reach out. You can contact us via our GitHub profile, or by sending us an hi@managed-code.com
