@@ -2,19 +2,16 @@
 
 Are you a .NET developer who's had enough of the challenges that come with open-source? Abandoned libraries, sudden licensing changes, hidden gems that no one knows about, and pull requests that gather dust for years? We get it, and we're here to help.
 
----
 
 ## 👥 Welcome to the **Managed Code Community**
 
 A place where .NET developers can come together to build, maintain, and support high-quality open-source projects. Here, your favorite libraries remain free and accessible, your contributions are valued and acted upon, and you can find the help and resources you need to succeed.
 
----
 
 ## 🎯 Our Mission
 
 At the Managed Code Community, our goal is to create an ecosystem of reliable, well-maintained open-source projects for the .NET community. We believe that by working together, we can ensure that the libraries and tools we depend on remain available, up-to-date, and of the highest quality.
 
----
 
 ## 🚀 What We Do
 
@@ -28,7 +25,6 @@ At the Managed Code Community, our goal is to create an ecosystem of reliable, w
 
 ✅ **Share knowledge and experience**: We provide a platform for .NET developers to share their insights, learn from each other, and grow together as a community.
 
----
 
 ## 💡 Our Values
 
@@ -38,7 +34,6 @@ At the Managed Code Community, our goal is to create an ecosystem of reliable, w
 4. **Growth and Mentorship**: We help each other learn and develop as developers.
 5. **Promotion of Value**: We advocate for projects that bring value to the .NET ecosystem.
 
----
 
 ## 🔥 Get Involved  
 
@@ -48,7 +43,6 @@ At the Managed Code Community, our goal is to create an ecosystem of reliable, w
 
 🎤 **Join us on [Discord](https://discord.gg/3wsxCRMmKp) and let's get started!**
 
----
 
 ## 📌 Our Projects
 
@@ -61,7 +55,6 @@ Here are some of the projects we're currently working on, based on our daily nee
 - 📂 [**MimeType**](https://github.com/managedcode/MimeTypes): A convenient way to work with MIME types in C#.
 - 🛠️ [**EnvironmentDetector**](https://github.com/managedcode/EnvironmentDetector): Easily detect whether your code is running in various test environments.
 
----
 
 ## 📬 Contact Us
 
@@ -71,6 +64,5 @@ We'd love to hear from you! Whether you have questions, suggestions, or just wan
 - 💬 [Discord](https://discord.gg/3wsxCRMmKp)
 - 📧 [Email](mailto:opensource@managed-code.com)
 
----
 
 ## 🚀 **Let's build a better open-source future for .NET together!** 🚀
