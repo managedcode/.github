@@ -1,78 +1,76 @@
-## Hello! 👋
-We are dedicated team of C# developers based in Ukraine and France 🇺🇦🇫🇷. 
-We are passionate about contributing to the open source community by creating and maintaining high-quality C# projects for the .NET ecosystem.
+# Managed Code: Open Source for .NET Developers
 
-As avid fans of the Orleans framework, we love using it to build scalable and fault-tolerant applications. We aim to help the community thrive by sharing our knowledge and collaborating on projects that leverage this powerful technology. Feel free to explore our projects and connect with us!
+Are you a .NET developer who's had enough of the challenges that come with open-source? Abandoned libraries, sudden licensing changes, hidden gems that no one knows about, and pull requests that gather dust for years? We get it, and we're here to help.
 
+---
 
-#### Our Mission: 🎯🌐
-We're on a mission to make the world of C# even better! As a team of committed developers, we have made it our goal to create and maintain outstanding C# projects for the global community. Furthermore, we offer support for existing projects in need of updates and maintenance, ensuring these valuable resources remain accessible and up-to-date for developers worldwide.
+## 👥 Welcome to the **Managed Code Community**
 
-#### What Sets Us Apart?  🌟💼
-Not only do we excel in coding and maintaining C# projects, but we also invest in the next generation of .NET talent. 
-We actively train and recruit young specialists, contributing to a brighter future for the .NET communities and ensuring their continued growth and success.
+A place where .NET developers can come together to build, maintain, and support high-quality open-source projects. Here, your favorite libraries remain free and accessible, your contributions are valued and acted upon, and you can find the help and resources you need to succeed.
 
-#### Why Sponsor Us? 🤝💡
-When you sponsor us, you join hands with a dedicated team that genuinely cares about the .NET ecosystem's development. As a sponsor, you help us:
+---
 
-- Create and maintain top-notch open-source projects
-- Revitalize and update neglected codebases
-- Train the next generation of C# and .NET specialists
+## 🎯 Our Mission
 
-Your sponsorship enables us to continue delivering high-quality projects and services, giving developers like you the confidence to rely on our expertise.
+At the Managed Code Community, our goal is to create an ecosystem of reliable, well-maintained open-source projects for the .NET community. We believe that by working together, we can ensure that the libraries and tools we depend on remain available, up-to-date, and of the highest quality.
 
-#### Join Our Journey: 💪🌍
-Be a part of our growing community and experience firsthand how we bring dedication and passion to the world of open-source C# projects. With us by your side, you can count on a strong, dependable team that consistently supports the projects you care about.
+---
 
+## 🚀 What We Do
 
-## Our Projects 👷
-Here are some of the projects that we're currently working on:
-- [**Storage**](https://github.com/managedcode/Storage): library provides a universal interface for accessing and manipulating data in different cloud blob storage providers. It makes it easy to switch between providers or to use multiple providers simultaneously, without having to learn and use multiple APIs.
-- [**Database**](https://github.com/managedcode/Database): Unified interface for working with a variety of different document-oriented NoSQL databases.
-- [**TimeSeries**](https://github.com/managedcode/TimeSeries) : Library provides convenient tools for working with time series data in C#. Its accumulators and summers make it easy to add and summarize data in time frames, and its efficient storage and compression capabilities ensure.
-- [**Communication**](https://github.com/managedcode/Communication): provides a convenient and easy-to-use solution for handling the result of a function that may throw exceptions. It eliminates the need to handle exceptions and makes it easy to check whether the function was successful and to access its output.
-- [**MimeType**](https://github.com/managedcode/MimeTypes): provides a convenient way to work with MIME types in C#. It defines a set of properties for each MIME type, allowing you to use properties instead of strings in your code.
-- [**EnvironmentDetector**](https://github.com/managedcode/EnvironmentDetector): is a library that provides a simple way to detect whether your code is running in a test environment or not. It currently supports detecting Dapr, Kubernetes, Docker, MSTest, NUnit, and xUnit.
-- [**OpenAI**](https://github.com/managedcode/OpenAI): This is an unofficial C# library for the OpenAI API. As there are no official libraries available, we have created our own to help C# developers interact with the API easily.
+✅ **Develop and improve projects we use daily**: We create and enhance open-source projects based on our real-world experience and needs as .NET developers.
 
+✅ **Support existing projects**: We provide resources and assistance to help maintain and improve existing open-source projects that are important to the community.
 
+✅ **Foster new ideas**: We encourage and support .NET developers in launching and growing their own open-source initiatives.
 
-## MS Orleans related Projects 😎
-Here are some of the projects that we're currently working on specifically related to Orleans:
-- [**Orleans.Indexing**](https://github.com/managedcode/Orleans.Indexing): Orleans.Indexing is a library that provides functionality for searching Orleans grains by their states. It uses the powerful Lucene.NET library for indexing and searching grain states, making it easy to quickly retrieve data from grains.
-- [**Orleans.Identity**](https://github.com/managedcode/Orleans.Identity): This is an authentication and authorization library for ASP.NET Identity based on Orleans. It provides a simple and efficient way to manage user sessions and authentication for your ASP.NET applications.
-- [**Orleans.Balancer**](https://github.com/managedcode/Orleans.Balancer): Library for automatically balancing the number of active Grains in an Orleans. It allows you to set limits on the number of active Grains, and will automatically deactivate Grains if those limits are reached. It can also perform rebalancing of Grain activations between silos to ensure evenly distributed.
-- [**Keda**](https://github.com/managedcode/Keda): Use KEDA autoscaling to automatically scale applications based on metrics such as the number of active Grains in Orleans, the number of API requests, and the number of SignalR connections. This allows your .NET applications to handle increased workloads without manual intervention.
-of Grain activations between silos to ensure evenly distributed.
-- [**Orleans.PushNotifications**](https://github.com/managedcode/Orleans.PushNotifications): Apple and Google Push notifications for Orleans.
-- [**Orleans.RateLimiting**](https://github.com/managedcode/Orleans.RateLimiting): This is a library for Microsoft Orleans that provides a set of rate limiting algorithms for controlling the flow of requests in your distributed applications. It is designed to be easy to use and to integrate with your Orleans-based applications seamlessly.
-- [**Orleans.SignalR**](https://github.com/managedcode/Orleans.SignalR): is a lightweight, open-source library that enables easy integration of SignalR with Orleans, a distributed virtual actor model framework for building scalable, fault-tolerant systems. The library provides a SignalR backplane, allowing you to effortlessly add real-time communication capabilities to your distributed systems.
+✅ **Promote hidden gems**: We shine a spotlight on high-quality, lesser-known projects that deserve more attention and use.
 
-## GitHub Actions 🦾
-- [**MAUIAppVersion**](https://github.com/marketplace/actions/mauiappversion): This action updates the application version and/or display version properties in a .cproj file for a MAUI application. You can use this action as part of your CI/CD workflow to automatically update the version properties when building and publishing your MAUI application.
+✅ **Share knowledge and experience**: We provide a platform for .NET developers to share their insights, learn from each other, and grow together as a community.
 
+---
 
+## 💡 Our Values
 
-We're always working on new projects, so be sure to check our GitHub profile regularly for updates.
+1. **Openness and Accessibility**: Free and open-source software that everyone can use and contribute to.
+2. **Collaborative Maintenance**: We share the responsibility of maintaining and improving our projects.
+3. **Mutual Understanding**: We respect the needs and perspectives of all community members.
+4. **Growth and Mentorship**: We help each other learn and develop as developers.
+5. **Promotion of Value**: We advocate for projects that bring value to the .NET ecosystem.
 
-## Contributions💪
-We welcome contributions to our projects from the community! If you're interested in contributing, please check out our individual project pages for information on how to get involved.
+---
 
-We also encourage you to open issues and share your ideas and suggestions for improving our projects. We're always open to feedback and new ideas.
+## 🔥 Get Involved  
 
-## Hiring 👩‍💻
-We are always looking for talented C# developers to join our team. If you are interested in working with us, please check our website for current job openings and application instructions.
+🎉 Whether you've been contributing to open-source for years or you're just getting started, the Managed Code Community is the place for you.
 
-## Discord 👩‍💻
-[Join to ManagedCode Discord server](https://discord.gg/3wsxCRMmKp), there you can always talk about your ideas.
+🛠️ Bring your ideas, your code, and your enthusiasm. Together, we can build the open-source .NET ecosystem we've all been waiting for.
 
-## Sponsors ❤️
-[NDepend](https://www.ndepend.com) - As a static analyzer, NDepend will likely find hundreds or even thousands of issues affecting your code base.
-![img|315x95](https://raw.githubusercontent.com/managedcode/.github/main/images/NDepend.png)
+🎤 **Join us on [Discord](https://discord.gg/3wsxCRMmKp) and let's get started!**
 
+---
 
+## 📌 Our Projects
 
-## Contact Us 💬
-If you have any questions or would like to get in touch with us, please feel free to reach out. You can contact us via our GitHub profile, or by sending us an hi@managed-code.com
+Here are some of the projects we're currently working on, based on our daily needs and experiences:
 
-We look forward to hearing from you and to working with the .NET communities to make great open source projects!
+- 📦 [**Storage**](https://github.com/managedcode/Storage): A universal interface for working with different cloud blob storage providers.
+- 🗄️ [**Database**](https://github.com/managedcode/Database): A unified interface for working with various document-oriented NoSQL databases.
+- ⏳ [**TimeSeries**](https://github.com/managedcode/TimeSeries): Convenient tools for working with time series data in C#.
+- 💬 [**Communication**](https://github.com/managedcode/Communication): A simple solution for handling exceptions in function results.
+- 📂 [**MimeType**](https://github.com/managedcode/MimeTypes): A convenient way to work with MIME types in C#.
+- 🛠️ [**EnvironmentDetector**](https://github.com/managedcode/EnvironmentDetector): Easily detect whether your code is running in various test environments.
+
+---
+
+## 📬 Contact Us
+
+We'd love to hear from you! Whether you have questions, suggestions, or just want to connect, you can find us here:
+
+- 🌐 [GitHub](https://github.com/managedcode)
+- 💬 [Discord](https://discord.gg/3wsxCRMmKp)
+- 📧 [Email](mailto:opensource@managed-code.com)
+
+---
+
+## 🚀 **Let's build a better open-source future for .NET together!** 🚀
