@@ -1,4 +1,4 @@
-# Managed Code: Open Source for .NET Developers
+# Managed Code - Open Source Community for .NET Developers
 
 Are you a .NET developer who's had enough of the challenges that come with open-source? Abandoned libraries, sudden licensing changes, hidden gems that no one knows about, and pull requests that gather dust for years? We get it, and we're here to help.
 
